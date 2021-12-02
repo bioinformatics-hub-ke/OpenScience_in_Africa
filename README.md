@@ -22,4 +22,4 @@ How COVID has affected research in Kenya
 
 # Team
 1. Kennedy Mwangi - Project Lead
-2. 
+2. Joseph Gisaina
